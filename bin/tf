@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+set -e
+
+export GOOGLE_CREDENTIALS=$(cat account.json)
+
+terraform $@
