@@ -1,5 +1,7 @@
 # Kontena Google Cloud Platform Terraform
 
+STATUS: https://github.com/hashicorp/terraform/pull/10907 is open (and abandoned?) and https://github.com/terraform-providers/terraform-provider-google/issues looks bad. going back to gcloud.
+
 ## setup
 
     $ brew install terraform
